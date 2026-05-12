@@ -10,7 +10,7 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Tukaram SonarQube Project</name>
+  <name>sysnet-stage-env</name>
   <description>Sample Maven project integrated with Jenkins, SonarQube, and Nexus</description>
   <url>http://13.203.18.114:8081/</url>
 
